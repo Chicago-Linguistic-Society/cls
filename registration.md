@@ -5,7 +5,7 @@ title: Registration
 
 # Registration
 
-Registration details for CLS 57 have not yet been announced - check back for more info! 
+Registration details for CLS 58 have not yet been announced - check back for more info! 
 
 
 <!-- Click [here](https://docs.google.com/forms/d/e/1FAIpQLScJfCgEXLjLABN2DM_ncL1Z-xqnfKli0l8giGjyS7F2Rn8ayA/viewform) for pre-registration! -->
