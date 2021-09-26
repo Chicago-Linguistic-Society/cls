@@ -5,18 +5,24 @@ title: Registration
 
 # Registration
 
-Registration details for CLS 58 have not yet been announced - check back for more info! 
+Registration for CLS 58 is now open! Conference dates: April 22-24, 2022
+
+Fill out this form to pre-register:
+https://forms.gle/b1jXWq75osEC1hsB6
 
 
-<!-- Click [here](https://docs.google.com/forms/d/e/1FAIpQLScJfCgEXLjLABN2DM_ncL1Z-xqnfKli0l8giGjyS7F2Rn8ayA/viewform) for pre-registration! -->
+# Payment
+Payment will be collected at the door, as there is no online pre-payment option.
 
+If you do not pre-register online before the conference (by filling out the above form) before the deadline, an additional $10 fee will be appended.
 
-<!-- <iframe
-src="https://docs.google.com/forms/d/e/1FAIpQLScJfCgEXLjLABN2DM_ncL1Z-xqnfKli0l8giGjyS7F2Rn8ayA/viewform"
-width="760"
-height="300"
-frameborder="0"
-marginheight="0"
-marginwidth="0">
-Loading...
-</iframe> -->
+The prices are as follows:
+- University of Chicago students: Free
+- Non-UChicago students (grad & undergrad): $40
+- Recent graduate: $80
+- Faculty/Other: $120
+
+# Evening events
+We are hosting several social events!
+- Graduate student mixer: evening of Saturday, April 23
+- Conference banquet: evening of Sunday, April 24 (add $20)
