@@ -8,7 +8,7 @@ title: Registration
 Registration for CLS 58 is now open! Conference dates: April 22-24, 2022
 
 Fill out this form to pre-register:
-[https://forms.gle/b1jXWq75osEC1hsB6]()
+[https://forms.gle/b1jXWq75osEC1hsB6](https://forms.gle/b1jXWq75osEC1hsB6)
 
 
 # Payment
