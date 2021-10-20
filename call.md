@@ -32,7 +32,7 @@ We particularly encourage submissions relevant to this year’s proposed special
 - Language and Music
 - Language Production
 - Cognitive Modeling
-- Language Documentation, Variation and Change (?)
+- Language Documentation, Variation and Change
 
 Details on each of the special topics can be found on [EasyChair](https://easychair.org/cfp/CLS58) and [our website](http://chicagolinguisticsociety.org/call.html).
 
@@ -41,11 +41,11 @@ Abstract Guidelines:
 Submissions that fail to comply with any of the following guidelines will be automatically rejected.
 
 1. Submit abstracts in PDF format with the filename PaperTitle.pdf.
-1. Include the paper title and keywords (i.e., CLS special session title if applicable, linguistic subfield(s), language(s)/language family) within the abstract.
-1. Limit abstracts to two letter-sized pages in length, including data and references (just select references are acceptable). Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
-1. Anonymize submissions by not including author name(s) in the abstract or filename.
-1. Use the [EasyChair platform](https://easychair.org/conferences/?conf=cls58) for the submission of abstracts.
-1. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
+2. Include the paper title and keywords (i.e., CLS special session title if applicable, linguistic subfield(s), language(s)/language family) within the abstract.
+3. Limit abstracts to two letter-sized pages in length, including data and references (just select references are acceptable). Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
+4. Anonymize submissions by not including author name(s) in the abstract or filename.
+5. Use the [EasyChair platform](https://easychair.org/conferences/?conf=cls58) for the submission of abstracts.
+6. Restrict submissions to one individual and one joint abstract per author, or two joint abstracts per author.
 
 Invited Speakers:
 
