@@ -34,7 +34,11 @@ Chicago IL 60615
 Book [online](https://chicagosouthuniversity.place.hyatt.com/en/hotel/home.html?corp_id=58415): Enter preferred dates of stay and click 'Check Availability' <br>
 Book by phone: 1.888.591.1234 (Request Rate Code: UNCH) -->
 
-We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference (ps: email us for UChicago Friend & Family Discounts!).
+We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference.
+
+** Occasionally, is a UChicago Friends & Family discount code that works some years. Unfortunately, is not available during our 2022 conference due to April 22-24 being "blackout dates" this year.
+
+
 
 ### [Hostelling International Chicago](http://hichicago.org/):
 
@@ -44,8 +48,7 @@ Budget-minded participants might also want to consider options like [Airbnb](htt
 
 ### Crash space:
 
-Limited numbers of couches, futons and hide-a-beds are available from
-students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls56@gmail.com) for details.
+Limited numbers of couches, futons and hide-a-beds are occasionally available from students in the University of Chicago community. Please [contact CLS](mailto:chicagolinguisticsociety.cls56@gmail.com) if you are interested.
 
 <br>
 <br>
