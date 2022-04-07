@@ -20,7 +20,7 @@ Although language is often taken to be a paradigmatic case of the use of arbitra
 ## **James Kirby | Language and Music**
 James Kirby is a Professor in the School of Philosophy, Psychology and Language Sciences of University of Edinburgh. His research interests are sound change, computational and statistical methods in phonetics, tone and register, language and music, and languages of Southeast Asia. His latest research includes Incorporating tone in the calculation of phonotactic probability, Individuals, communities, and sound change: an introduction, and Relating production and perception of L2 tone.
 
-## **Monica Do | Experimental syntax**
+## **Monica Do | Psycholinguistics**
 Monica Do is a Provost’s Postdoctoral Fellow in Linguistics at the University of Chicago. Her research on language production focuses on how we decide what it is we want to talk about and how we turn our conceptual representations of the world into a linguistic form that is suitable for the language we speak. To do this, her work brings together topics in event cognition, pragmatics, and theoretical linguistics. Dr. Do studies these processes in language production using visual world eye-tracking and other behavioral techniques in different languages.
 
 **Title: From thematic to syntactic structures: A View from Psych Verbs**
