@@ -3,6 +3,9 @@ layout: page
 title: Conference
 ---
 
+<h1>The link to the CLS 58 program schedule is posted here below</h1>
+[CLS 58 schedule]({{ site.baseurl }}/public/CLS_58.pdf)
+
 CLS is pleased to announce the plenary speakers and special sessions for the 58th Annual Conference.
 
 ## **Lal Zimman | Sociophonetics**
