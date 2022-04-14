@@ -6,7 +6,11 @@ title: Conference
 <h1>The link to the CLS 58 program schedule is posted here below</h1>
 [CLS 58 schedule]({{ site.baseurl }}/public/CLS_58.pdf)
 
-CLS is pleased to announce the plenary speakers and special sessions for the 58th Annual Conference.
+The conference will be held at the International House (1414 E. 59th St.) on Friday, and at Ida Noyes Hall (1212 E. 59th St.) on Saturday and Sunday.
+
+Regarding ASL Interpretation: We have ASL interpreters for the entirety of Friday. If applicable, please take a look at the schedule and let us know as soon as possible if there are specific talks for which you require interpretation.
+
+<h1>CLS is pleased to announce the plenary speakers and special sessions for the 58th Annual Conference.</h1>
 
 ## **Lal Zimman | Sociophonetics**
 Lal Zimman is a Professor of Sociolinguistics and Linguistic Anthropology at the University of California, Santa Barbara. His research focuses on ethnographic, discourse analytic, and sociophonetic methods of examining the relationship of language to identity and gender, particularly for LGBTQ speakers.
