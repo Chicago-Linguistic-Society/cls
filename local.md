@@ -5,14 +5,14 @@ title: Info for Presenters and Attendees
 
 <!-- # Keynote speakers -->
 
-# Main Session Speakers
+# Main Session Presenters
 Please plan to speak for 20 minutes, with 10 minutes for questions. Plan to bring your own laptop for connection to the projector system; if this is not possible or in case of technical difficulties, we can provide a laptop during your session for this purpose, but please email all presentation materials in advance if this is the case.
 
-# Poster presenters
+# Poster Presenters
 
 ## Poster printing (if you need to print locally)
 
-Suggestion: Fedex Hyde Park<br>
+Suggestion: FedEx Hyde Park<br>
 1315 E 57th St, Chicago, IL 60637<br>
 You can upload your poster on their website, and they will have it ready for you to pick up in-store within 24h. Or you can put your pdf on a USB and print it yourself in-store right away.
 

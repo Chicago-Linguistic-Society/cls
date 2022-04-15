@@ -8,7 +8,12 @@ title: Conference
 
 The conference will be held at the International House (1414 E. 59th St.) on Friday, and at Ida Noyes Hall (1212 E. 59th St.) on Saturday and Sunday.
 
-Regarding ASL Interpretation: We have ASL interpreters for the entirety of Friday. If applicable, please take a look at the schedule and let us know as soon as possible if there are specific talks for which you require interpretation.
+PUB MIXER ATTENDEES: [The pub](http://uofcpub.com) is located in the Ida Noyes basement. For guests from other institutions, you need to be accompanied by a UChicago student at the entrance. If you are a guest: first, go down the stairs, and then find a UChicago linguist to pull you in. Entry for guests is $3 (cash only). There are food and drinks for purchase inside. We have some limited funding and will purchase drinks and sharable finger food for the table to an extent.
+
+BANQUET ATTENDEES: Held at the Ida Noyes Cloister Club (1st floor of Ida Noyes Hall).
+
+ASL Interpretation: We have ASL interpreters for the entirety of Friday.
+<!-- If applicable, please take a look at the schedule and let us know as soon as possible if there are specific talks for which you require interpretation. -->
 
 <h1>CLS is pleased to announce the plenary speakers and special sessions for the 58th Annual Conference.</h1>
 
@@ -68,8 +73,6 @@ Based on ongoing fieldwork and published data, this talk explores VRK mutation f
 
 
 ## Thank you for attending CLS!
-
-Recordings of this year's conference can be found on the [home page of this website](https://chicagolinguisticsociety.org) for a short period after the conference.
 
 Programs and abstracts for all years can be found on the [past conferences](https:/chicagolinguisticsociety.org/past.html) page of the website.
 
