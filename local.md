@@ -35,7 +35,7 @@ Book by phone: 1.888.591.1234 (Request Rate Code: UNCH) -->
 
 We suggest that conference attendees stay at the Hyatt in Hyde Park because of its convenient location for the conference.
 
-** Occasionally, is a UChicago Friends & Family discount code that works some years. Unfortunately, is not available during our 2022 conference due to April 22-24 being "blackout dates" this year.
+** Occasionally, there is a UChicago Friends & Family discount code that works some years. Unfortunately, it is not available during our 2022 conference due to April 22-24 being "blackout dates" this year.
 
 
 
