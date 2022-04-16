@@ -8,18 +8,14 @@ title: Conference
 
 The conference will be held at the International House (1414 E. 59th St.) on Friday, and at Ida Noyes Hall (1212 E. 59th St.) on Saturday and Sunday.
 
-PUB MIXER ATTENDEES: [The pub](http://uofcpub.com) is located in the Ida Noyes basement. For guests from other institutions, you need to be accompanied by a UChicago student at the entrance. If you are a guest: first, go down the stairs, and then find a UChicago linguist to pull you in. Entry for guests is $3 (cash only). There are food and drinks for purchase inside. We have some limited funding and will purchase drinks and sharable finger food for the table to an extent.
+PUB MIXER ATTENDEES: [The pub](http://uofcpub.com) is located in the Ida Noyes basement. For guests from other institutions, you need to be accompanied by a UChicago student at the entrance. If you are a guest: first, go down the stairs, and then find a UChicago linguist to pull you in. Entry for guests is $3 (cash only). There are food and drinks for purchase inside. We have some limited funding and will purchase drinks and sharable finger food for the table to our best extent.
 
 BANQUET ATTENDEES: Held at the Ida Noyes Cloister Club (1st floor of Ida Noyes Hall).
 
 ASL Interpretation: We have ASL interpreters for the entirety of Friday.
 <!-- If applicable, please take a look at the schedule and let us know as soon as possible if there are specific talks for which you require interpretation. -->
 
-<h1>CLS is pleased to announce the plenary speakers and special sessions for the 58th Annual Conference.</h1>
-
-## **Lal Zimman | Sociophonetics**
-Lal Zimman is a Professor of Sociolinguistics and Linguistic Anthropology at the University of California, Santa Barbara. His research focuses on ethnographic, discourse analytic, and sociophonetic methods of examining the relationship of language to identity and gender, particularly for LGBTQ speakers.
-
+<h1>CLS is pleased to announce the plenary speakers and respective special sessions for the 58th Annual Conference.</h1>
 
 
 ## **Kathryn Davidson | Sign languages**
@@ -28,9 +24,6 @@ Kathryn Davidson is an Associate Professor of Linguistics at Harvard University,
 **Title: Semiotic distinctions in compositional semantics**
 
 Although language is often taken to be a paradigmatic case of the use of arbitrary symbols to communicate ideas, it is also clear that linguistic utterances across all modalities frequently incorporate elements of iconic depiction. How exactly symbolic and iconic aspects of language interact has been an area of active research on spoken and signed languages and gesture studies within linguistics and across the cognitive sciences. However, questions related to iconicity are less commonly studied from the perspective of compositionality: words like red and ball can combine to describe a red ball, but how do meanings from iconic forms compose with non-iconic elements in language? This paper builds upon the semiotic distinction between depiction and description to argue against accounts that treat depiction as contributing toward propositional meaning, and in favor of two separate systems for representing meaning in language, one that involves a non-symbolic representation of a particular, and another symbolic/propositional representation, defined via ability to contrast propositional alternatives in order to eliminate possibilities, with an eye toward explaining the pervasiveness of both depiction and description as means of conveying meaning in language.
-
-## **James Kirby | Language and Music**
-James Kirby is a Professor in the School of Philosophy, Psychology and Language Sciences of University of Edinburgh. His research interests are sound change, computational and statistical methods in phonetics, tone and register, language and music, and languages of Southeast Asia. His latest research includes Incorporating tone in the calculation of phonotactic probability, Individuals, communities, and sound change: an introduction, and Relating production and perception of L2 tone.
 
 ## **Monica Do | Psycholinguistics**
 Monica Do is a Provost’s Postdoctoral Fellow in Linguistics at the University of Chicago. Her research on language production focuses on how we decide what it is we want to talk about and how we turn our conceptual representations of the world into a linguistic form that is suitable for the language we speak. To do this, her work brings together topics in event cognition, pragmatics, and theoretical linguistics. Dr. Do studies these processes in language production using visual world eye-tracking and other behavioral techniques in different languages.
@@ -70,6 +63,12 @@ If VRK mutation is taken to be a single rule, which I argue that it should be, i
 
 Based on ongoing fieldwork and published data, this talk explores VRK mutation from a number of angles. How did it arise initially? What can the range of instantiations, and the changes that led to them, tell us about the structure and history of SHWNG? And what can an artificial language learning experiment tell us about how the pattern is acquired by language learners, and how it might change in the future?
 
+## **Lal Zimman | Sociophonetics**
+Lal Zimman is a Professor of Sociolinguistics and Linguistic Anthropology at the University of California, Santa Barbara. His research focuses on ethnographic, discourse analytic, and sociophonetic methods of examining the relationship of language to identity and gender, particularly for LGBTQ speakers.
+
+
+## **James Kirby | Language and Music**
+James Kirby is a Professor in the School of Philosophy, Psychology and Language Sciences of University of Edinburgh. His research interests are sound change, computational and statistical methods in phonetics, tone and register, language and music, and languages of Southeast Asia. His latest research includes Incorporating tone in the calculation of phonotactic probability, Individuals, communities, and sound change: an introduction, and Relating production and perception of L2 tone.
 
 
 ## Thank you for attending CLS!

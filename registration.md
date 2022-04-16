@@ -24,5 +24,5 @@ The prices are as follows:
 
 # Evening events
 We are hosting several social events!
-- Graduate student mixer: evening of Saturday, April 23
-- Conference banquet: evening of Sunday, April 24 (add $20)
+- Student mixer: evening of Friday, April 22 (guest entry is $3 at the door) (we will purchase a limited quantity of finger food and drinks for the table)
+- Conference banquet: evening of Sunday, April 24 (add $20 to the registration)
