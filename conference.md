@@ -5,6 +5,7 @@ title: Conference
 
 <h1>The link to the CLS 58 program schedule is posted here below</h1>
 [CLS 58 schedule]({{ site.baseurl }}/public/CLS_58.pdf)
+[iHouse Poster]({{ site.baseurl }}/public/iHouse58.png)
 
 The conference will be held at the International House (1414 E. 59th St.) on Friday, and at Ida Noyes Hall (1212 E. 59th St.) on Saturday and Sunday.
 
