@@ -25,5 +25,3 @@ Our poster boards can accommodate posters up to size 36" x 48" (smaller is perfe
 There are no specific requirements, but do ensure your name and institution are visible.<br>
 Each poster session will be one hour.
 
-## Virtual Poster presenters
-Note on 4/14/22: we'll be reaching out to all online poster presenters within a couple of days with information on the specific time slot, and the logistics of virtual posters in general
