@@ -35,6 +35,13 @@ Note: Due to the ongoing COVID-19 pandemic, our operations were paused for much 
     <th align="center">Editors</th>
   </tr>
   <tr>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls56-toc.pdf" title="cls56">56</a></td>
+    <td align="center">2022</td>
+    <td align="left">Proceedings of the Fifty-sixth Annual Meeting of the Chicago Linguistic Society</td>
+    <td align="center">$95</td>
+    <td align="left">Sanghee Kim, Naomi Kurtz, Matthew Hewett, Corinne Kasper</td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls55-toc.pdf" title="cls55">55</a></td>
     <td align="center">2020</td>
     <td align="left">Proceedings of the Fifty-fifth Annual Meeting of the Chicago Linguistic Society</td>
