@@ -126,11 +126,11 @@ Note: We now have PDFs of all published issues available in the cloud [here](htt
     <td align="left">"</td>
   </tr>
   <tr>
-    <td align="center">45-1</td>
-	  <td align="center">N/A</td>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls45-toc.pdf" title="cls45-1">45-1</a></td>
+	  <td align="center">2011</td>
     <td align="left">The Main Session</td>
     <td align="center">$35</td>
-    <td align="left">N/A</td>
+    <td align="left">M. Ryan Bochnak, Peter Klecha, Alice Lemieux, Nassira Nicola, Jasmin Urban, Christina Weaver</td>
   </tr>
   <tr>
     <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls45-2-toc.pdf" title="cls45-2">45-2</a></td>
@@ -212,7 +212,7 @@ Note: We now have PDFs of all published issues available in the cloud [here](htt
   <tr>
     <td align="center">39-1</td>
 	  <td align="center">2007</td>
-    <td align="left">Conference 2003; Published 2007</td>
+    <td align="left">N/A</td>
     <td align="center">$35</td>
     <td align="left">N/A</td>
   </tr>
