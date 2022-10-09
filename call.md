@@ -32,7 +32,7 @@ We particularly encourage submissions relevant to this year’s proposed special
 - Arctic languages
 - Syntax-prosody interface
 
-Details on each of the special topics can be found on EasyChair (https://easychair.org/conferences/?conf=cls59) and our website (http://chicagolinguisticsociety.org/call.html)
+Details on each of the special topics can be found on EasyChair ([https://easychair.org/conferences/?conf=cls59](https://easychair.org/conferences/?conf=cls59)) and our website ([http://chicagolinguisticsociety.org/call.html](http://chicagolinguisticsociety.org/call.html))
 
 <h3>Abstract Guidelines:</h3>
 
@@ -42,7 +42,7 @@ Submit abstracts in PDF format with the filename PaperTitle.pdf.
 Include the paper title and keywords (e.g., CLS special session title if applicable, linguistic subfield(s), language(s)/language family) within the abstract.
 Limit abstracts to two US letter-sized pages in length, including data and references (just select references are acceptable). Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
 Anonymize submissions by not including author name(s) in the abstract or filename.
-Use the EasyChair platform (https://easychair.org/conferences/?conf=cls59) for the submission of abstracts.
+Use the EasyChair platform ([https://easychair.org/conferences/?conf=cls59](https://easychair.org/conferences/?conf=cls59)) for the submission of abstracts.
 Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.
 
 <h3>Invited Speakers:</h3>
