@@ -8,7 +8,7 @@ title: Call for Papers
 </h2>
 <h3>
   59th Meeting of the Chicago Linguistic Society<br>
-</h4>
+</h3>
 
 _April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO_
   
