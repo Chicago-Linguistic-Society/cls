@@ -3,29 +3,28 @@ layout: page
 title: Call for Papers
 ---
 
-<p align="center">
-  <font size="+5">CALL FOR PAPERS</font>
-</p>
-<p align="center">
-  <font size="+2">
+<h2>
+  CALL FOR PAPERS
+</h2>
+<h3>
   59th Meeting of the Chicago Linguistic Society<br>
-  April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO
-  </font>
-</p>
+</h4>
+
+_April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO_
   
 **Call Deadline:** January 8, 2023 at 23:59
 
-**Meeting Description:**
-
+<h3>Meeting Description:</h3>
+  
 The Chicago Linguistic Society is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 59th annual meeting, which will be held from Friday, April 28 to Sunday, April 30, 2023.
 
-**Call for Papers:**
+<h3>Call for Papers:</h3>
 
 The Chicago Linguistic Society invites abstracts in any area of current research on the human language faculty, including but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, and all relevant interfaces and allied fields in cognitive/social sciences. We particularly encourage submissions relevant to this year’s proposed special sessions, detailed below.
 
 Presenters will be given 20 minutes for their presentation followed by a 10-minute question period. Presented papers will be published in the CLS proceedings. This year’s conference features a poster session; those presenting a poster may be chosen as alternates for talks. All talks and poster presentations will be published as regular papers in the proceedings.
 
-**Special Topics:**
+<h3>Special Topics:</h3>
 
 We particularly encourage submissions relevant to this year’s proposed special topics:
 
@@ -35,7 +34,7 @@ We particularly encourage submissions relevant to this year’s proposed special
 
 Details on each of the special topics can be found on EasyChair (https://easychair.org/conferences/?conf=cls59) and our website (http://chicagolinguisticsociety.org/call.html)
 
-**Abstract Guidelines:**
+<h3>Abstract Guidelines:</h3>
 
 Submissions that fail to comply with any of the following guidelines will be automatically rejected.
 
@@ -46,7 +45,7 @@ Anonymize submissions by not including author name(s) in the abstract or filenam
 Use the EasyChair platform (https://easychair.org/conferences/?conf=cls59) for the submission of abstracts.
 Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.
 
-**Invited Speakers:**
+<h3>Invited Speakers:</h3>
 
 - Richard Compton (Université du Québec à Montréal)
 - Troy Messick (Rutgers University)
@@ -55,7 +54,7 @@ Restrict submissions to one individual abstract and one joint abstract per autho
 - Natalie Weber (Yale University)
 - Chris Kennedy (University of Chicago)
 
-**Important Dates:**
+<h3>Important Dates:</h3>
 
 Submission deadline: January 8, 2023 at 23:59
 
@@ -63,31 +62,32 @@ Notification: First week of March
 
 Conference dates: April 28 - April 30, 2023
 
-**Organizers:**
+<h3>Organizers:</h3>
 
 - Akshay Aitha
 - Kutay Serova
 - Madeline Snigaroff
-- Land Acknowledgement:
+
+<h3>Land Acknowledgement:</h3>
 
 The Chicago Linguistic Society is headquartered at the University of Chicago, which was built on the occupied and unceded lands ancestrally stewarded by many Native peoples. These include the people of the Council of Three Fires (the Ojibwe, Potawatomi, and Odawa nations) as well as the Menominee, Kickapoo, Miami, Sac and Fox, and Ho-Chunk nations. Today, Cook County is home to 39,000 Native people representing more than 100 tribal nations.
 
-**Questions?**
+<h3>Questions?</h3>
 
 Please email us at _chicagolinguisticsociety.cls59@gmail.com_ for any questions or issues that may arise.
 
 __________________________________________________________________________
 
-**Special Topics**
+<h3>Special Topics</h3>
 
-Ancient languages:
+**Ancient languages:**
 
 While the study of ancient and liturgical languages has traditionally been associated with philological work and historical linguistics, we would like to showcase work from all theoretical linguistic disciplines and interdisciplinary work that deal with linguistic data and the methodology of working with ancient and liturgical languages without native speaker consultants.
 
-Arctic languages:
+**Arctic languages:**
 
 Arctic languages are not defined by a particular latitude, but rather encompass the indigenous languages spoken in the northernmost region of the globe, an area historically understudied. Arctic language linguistics might involve formalist subfields, sociolinguistics, historical linguistics, linguistic anthropology, language revitalization, or any other area pertaining to language.
 
-Prosody-syntax interface:
+**Prosody-syntax interface:**
 
 The interaction between prosody (rhythmic and metrical structure at levels higher than the word) and syntax (the form of sentences and words) has been a large focus of research in the formal (and experimental) linguistic community for many decades. We welcome any submissions relating to the interface between prosody and syntax in any language and from any methodological approach.
