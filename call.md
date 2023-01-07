@@ -12,7 +12,7 @@ title: Call for Papers
 
 _April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO_
   
-**Call Deadline:** January 8, 2023 at 23:59
+**Call Deadline:** <s>January 8, 2023 at 23:59</s>, <em>Extended to:</em> <b>January 15, 2023 at 23:59</b>
 
 <h3>Meeting Description:</h3>
   
@@ -56,7 +56,7 @@ Restrict submissions to one individual abstract and one joint abstract per autho
 
 <h3>Important Dates:</h3>
 
-Submission deadline: January 8, 2023 at 23:59
+Submission deadline: <s>January 8, 2023 at 23:59</s>, <em>extended to</em> <b>January 15, 2023 at 23:59</b>
 
 Notification: First week of March
 
