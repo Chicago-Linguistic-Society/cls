@@ -12,7 +12,7 @@ title: Call for Papers
 
 _April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO_
   
-**Call Deadline:** <s>January 8, 2023 at 23:59</s>, <em>Extended to:</em> <b>January 15, 2023 at 23:59</b>
+**Call Deadline:** <s>January 8, 2023 at 23:59</s>, <em>Extended to:</em> <b>January 15, 2023 at 23:59</b> US Central Standard Time (GMT-6)
 
 <h3>Meeting Description:</h3>
   
