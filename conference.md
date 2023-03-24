@@ -5,7 +5,7 @@ title: Conference
 
 # Registration
 
-Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a> and pay your registration fee at <a href="paypal.me/CLS59Reg">this link</a>. Registration rates are as follows:
+Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a> and pay your registration fee at <a href="https://paypal.me/CLS59Reg">this link</a>. Registration rates are as follows:
 - UChicago Students - FREE
 - Non-UChicago Students - $40 USD
 - Recent PhDs - $80 USD
