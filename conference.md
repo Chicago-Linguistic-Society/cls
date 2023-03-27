@@ -13,10 +13,8 @@ Registration is now open for CLS 59! If you plan to attend, please fill out <a h
 
 If you are attending the Saturday night banquet, you should add $20 USD to your total. Registration fees are due in **cash or check at the door.**
 
-NOTE: We are no longer accepting payment by PayPal. We sincerely apologize for the confusion! 
+NOTE: We are no longer accepting payment by PayPal. We sincerely apologize for the confusion! If you happen to already have paid, no worries - you're all set! 
 
 NOTE: All attendees, whether presenting research or not, are required to fill out the registration form. Also note that this year's conference will be **in-person only**, so please do not fill out the form if you will not be able to come to Chicago in April. 
 
-# Local Information 
 
-To come! 
