@@ -3,6 +3,10 @@ layout: page
 title: Conference
 ---
 
+# Program
+
+The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr5.pdf">PDF</a>]. (Last Updated: April 5, 2023).
+
 # Registration
 
 Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a>. Registration rates are as follows:
