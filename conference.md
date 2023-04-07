@@ -7,6 +7,14 @@ title: Conference
 
 The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr5.pdf">PDF</a>]. (Last Updated: April 5, 2023).
 
+## Invited Talks
+
+* Chris Kennedy - <a href="http://chicagolinguisticsociety.org/public/cls59_abstracts/kennedy.pdf">Zeroing in on exclusively exclusive content</a>
+* Line Mikkelsen - Hyperraising in Kalaallisut
+* Prerna Nadathur - Causal dependence in actuality inferences: the implicativity of enough and too predicates
+* Richard Comption - Disagreeing about Agreement in Inuktitut
+* Troy Messick - The locality of cross-clausal A-operations: A view from Telug 
+
 # Registration
 
 Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a>. Registration rates are as follows:
