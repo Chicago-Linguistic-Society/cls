@@ -11,6 +11,7 @@ The conference program can found here: [<a href="http://chicagolinguisticsociety
 
 * Chris Kennedy - <a href="http://chicagolinguisticsociety.org/public/cls59_abstracts/kennedy.pdf">Zeroing in on exclusively exclusive content</a>
 * Line Mikkelsen - Hyperraising in Kalaallisut
+* Natalie Weber - [Title TBD]
 * Prerna Nadathur - Causal dependence in actuality inferences: the implicativity of enough and too predicates
 * Richard Comption - Disagreeing about Agreement in Inuktitut
 * Troy Messick - The locality of cross-clausal A-operations: A view from Telug 
