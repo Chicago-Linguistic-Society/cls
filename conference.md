@@ -5,7 +5,7 @@ title: Conference
 
 # Program
 
-The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr5.pdf">PDF</a>]. (Last Updated: April 5, 2023).
+The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr8.pdf">PDF</a>]. (Last Updated: April 8, 2023).
 
 ## Invited Talks
 
