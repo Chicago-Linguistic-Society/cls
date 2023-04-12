@@ -13,7 +13,7 @@ The conference program can found here: [<a href="http://chicagolinguisticsociety
 * Line Mikkelsen - Hyperraising in Kalaallisut
 * Natalie Weber - [Title TBD]
 * Prerna Nadathur - Causal dependence in actuality inferences: the implicativity of enough and too predicates
-* Richard Comption - Disagreeing about Agreement in Inuktitut
+* Richard Compton - Disagreeing about Agreement in Inuktitut
 * Troy Messick - The locality of cross-clausal A-operations: A view from Telugu
 
 # Registration
