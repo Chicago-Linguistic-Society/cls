@@ -19,10 +19,10 @@ The conference program can found here: [<a href="http://chicagolinguisticsociety
 # Registration
 
 Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a>. Registration rates are as follows:
-- UChicago & Northwestern Students - FREE
-- Non-UChicago Students - $40 USD
+- UChicago, Northwestern, UIC, and other Chicago students - FREE
+- Non-Chicago students - $40 USD
 - Recent PhDs - $80 USD
-- Faculty/Others - $120 USD
+- Faculty/others - $120 USD
 
 If you are attending the Saturday night banquet, you should add $20 USD to your total. Registration fees are due in **cash or check at the door.**
 
