@@ -35,6 +35,13 @@ Note: We now have PDFs of all published issues available in the cloud [here](htt
     <th align="center">Editors</th>
   </tr>
   <tr>
+    <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls57-toc.pdf" title="cls57">57</a></td>
+    <td align="center">2022</td>
+    <td align="left">Proceedings of the Fifty-seventh Annual Meeting of the Chicago Linguistic Society</td>
+    <td align="center">$95</td>
+    <td align="left">Akshay Aitha, Steven Castro, Brianna Wilson</td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://chicagolinguisticsociety.org/public/cls56-toc.pdf" title="cls56">56</a></td>
     <td align="center">2022</td>
     <td align="left">Proceedings of the Fifty-sixth Annual Meeting of the Chicago Linguistic Society</td>
