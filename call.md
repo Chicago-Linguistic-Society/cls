@@ -4,6 +4,14 @@ title: Call for Papers
 ---
 
 <h2>
+  CLS 60 is in the Works!
+</h2>
+
+Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60!
+
+<!--
+
+<h2>
   CALL FOR PAPERS
 </h2>
 <h3>
@@ -91,3 +99,5 @@ Arctic languages are not defined by a particular latitude, but rather encompass 
 **Prosody-syntax interface:**
 
 The interaction between prosody (rhythmic and metrical structure at levels higher than the word) and syntax (the form of sentences and words) has been a large focus of research in the formal (and experimental) linguistic community for many decades. We welcome any submissions relating to the interface between prosody and syntax in any language and from any methodological approach.
+
+-->
