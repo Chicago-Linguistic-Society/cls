@@ -3,6 +3,14 @@ layout: page
 title: Conference
 ---
 
+# CLS 60 is in the works!
+
+CLS 59 took place in the University of Chicago through April 28-30, 2023.
+
+CLS 60 is planned for Spring of the 2023-2024 academic year. Please keep coming back for updates!
+
+<!--
+
 # Program
 
 The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr27.pdf">PDF</a>]. (Last Updated: April 27, 2023).
@@ -29,5 +37,8 @@ If you are attending the Saturday night banquet, you should add $20 USD to your 
 NOTE: We are no longer accepting payment by PayPal. We sincerely apologize for the confusion! If you happen to already have paid, no worries - you're all set! 
 
 NOTE: All attendees, whether presenting research or not, are required to fill out the registration form. Also note that this year's conference will be **in-person only**, so please do not fill out the form if you will not be able to come to Chicago in April. 
+
+
+-->
 
 
