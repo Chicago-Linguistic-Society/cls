@@ -7,7 +7,14 @@ title: Call for Papers
   CLS 60 is in the Works!
 </h2>
 
-Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60!
+Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60, which is scheduled to take place on April 26-28, 2024!
+
+<h3>Invited Speakers confirmed so far:</h3>
+
+- Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
+- Lenore Grenoble (University of Chicago)
+- Kai von Fintel (Massachusetts Institute of Technology)
+  
 
 <div class="organizers">
 <h3>CLS 60 Organizers</h3>
