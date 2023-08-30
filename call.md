@@ -9,6 +9,16 @@ title: Call for Papers
 
 Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60!
 
+<div class="organizers">
+<h3>CLS 60 Organizers</h3>
+<ul style="list-style:none;">
+    <li>Xiaobei Chen</li>
+    <li>Sercan Karakas</li>
+    <li>Jaehong Shim</li>
+    
+</ul>
+</div>
+
 <!--
 
 <h2>
