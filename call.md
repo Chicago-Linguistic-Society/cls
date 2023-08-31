@@ -13,6 +13,7 @@ Please keep coming back for details and the *call for papers* for the next annua
 
 - Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
 - David Embick (University of Pennsylvania)
+- Donka Farkas (University of California, Santa Cruz)
 -  Kai von Fintel (Massachusetts Institute of Technology)
 - Lenore Grenoble (University of Chicago)
 
