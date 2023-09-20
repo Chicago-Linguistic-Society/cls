@@ -12,11 +12,11 @@ Please keep coming back for details and the *call for papers* for the next annua
 <h3>Invited Speakers:</h3>
 
 - <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
-- <a href="https://https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
-- <a href="https://https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
-- <a href="https://https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
--  <a href="https://https://www.kaivonfintel.org//">Kai von Fintel</a> (Massachusetts Institute of Technology)
-- <a href="https://https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
+- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
+- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
+- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
+-  <a href="https://www.kaivonfintel.org//">Kai von Fintel</a> (Massachusetts Institute of Technology)
+- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
   
 
