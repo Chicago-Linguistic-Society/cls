@@ -11,7 +11,7 @@ Please keep coming back for details and the *call for papers* for the next annua
 
 <h3>Invited Speakers:</h3>
 
-- <a href="https://https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
+- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
 - <a href="https://https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
 - <a href="https://https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
 - <a href="https://https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
