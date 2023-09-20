@@ -13,9 +13,9 @@ Please keep coming back for details and the *call for papers* for the next annua
 
 - <a href="https://https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
 - <a href="https://https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
-- David Embick (University of Pennsylvania)
-- Donka Farkas (University of California, Santa Cruz)
--  Kai von Fintel (Massachusetts Institute of Technology)
+- <a href="https://https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
+- <a href="https://https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
+-  <a href="https://https://www.kaivonfintel.org//">Kai von Fintel</a> (Massachusetts Institute of Technology)
 - Lenore Grenoble (University of Chicago)
 
   
