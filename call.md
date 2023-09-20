@@ -16,7 +16,7 @@ Please keep coming back for details and the *call for papers* for the next annua
 - <a href="https://https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
 - <a href="https://https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
 -  <a href="https://https://www.kaivonfintel.org//">Kai von Fintel</a> (Massachusetts Institute of Technology)
-- Lenore Grenoble (University of Chicago)
+- <a href="https://https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
   
 
