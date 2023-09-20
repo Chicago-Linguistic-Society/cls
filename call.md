@@ -12,6 +12,7 @@ Please keep coming back for details and the *call for papers* for the next annua
 <h3>Invited Speakers confirmed so far:</h3>
 
 - Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
+- Patrice Speeter Beddor (University of Michigan)
 - David Embick (University of Pennsylvania)
 - Donka Farkas (University of California, Santa Cruz)
 -  Kai von Fintel (Massachusetts Institute of Technology)
