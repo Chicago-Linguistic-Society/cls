@@ -12,16 +12,6 @@ Please keep coming back for details and the *call for papers* for the next annua
 <h3>Invited Speakers:</h3>
 
 - Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Artemis Alexiadou</title>
-</head>
-<body>
-    <p><a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis">Artemis Alexiadou</a> is a professor of Linguistics at Humboldt University of Berlin.</p>
-</body>
-</html>
-
 - Patrice Speeter Beddor (University of Michigan)
 - David Embick (University of Pennsylvania)
 - Donka Farkas (University of California, Santa Cruz)
