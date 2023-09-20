@@ -11,7 +11,8 @@ Please keep coming back for details and the *call for papers* for the next annua
 
 <h3>Invited Speakers:</h3>
 
-- Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin) 
+- Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
+- <li><a href="https://www.franke.uchicago.edu/">Artemis Alexiadou</a></li> 
 - Patrice Speeter Beddor (University of Michigan)
 - David Embick (University of Pennsylvania)
 - Donka Farkas (University of California, Santa Cruz)
