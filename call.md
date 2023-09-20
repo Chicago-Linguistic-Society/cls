@@ -9,7 +9,7 @@ title: Call for Papers
 
 Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60, which is scheduled to take place from April 26-28, 2024!
 
-<h3>Invited Speakers confirmed so far:</h3>
+<h3>Invited Speakers:</h3>
 
 - Artemis Alexiadou (ZAS Berlin, Humboldt University of Berlin)
 - Patrice Speeter Beddor (University of Michigan)
