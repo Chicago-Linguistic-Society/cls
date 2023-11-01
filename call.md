@@ -86,12 +86,12 @@ Submissions that fail to comply with any of the following guidelines will be aut
 
 <h3>Invited Speakers:</h3>
 
-- Richard Compton (Université du Québec à Montréal)
-- Troy Messick (Rutgers University)
-- Line Mikkelsen (University of California, Berkeley)
-- Prerna Nadathur (The Ohio State University)
-- Natalie Weber (Yale University)
-- Chris Kennedy (University of Chicago)
+- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
+- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
+- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
+- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
+-  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
+- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
 <h3>Important Dates:</h3>
 
