@@ -10,6 +10,14 @@ CLS 59 took place in the University of Chicago through April 28-30, 2023.
 CLS 60 is planned for April 26-28, 2024. 
 <strong>10/31/2023: Call for Papers is out!</strong>
 
+<strong>Invited Speakers</strong>
+
+- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
+- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
+- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
+- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
+-  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
+- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
 <!--
 
