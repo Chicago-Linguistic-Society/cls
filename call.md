@@ -85,9 +85,10 @@ Submissions that fail to comply with any of the following guidelines will be aut
 
 <h3>Organizers:</h3>
 
-- Xiaobei Chen
-- Sercan Karakas
-- Jaehong Shim
+- Xiaobei Chen (<a href="mailto:xiaobeichen@uchicago.edu">xiaobeichen@uchicago.edu</a>)
+- Sercan Karakas (<a href="mailto:skarakas@uchicago.edu">skarakas@uchicago.edu</a>)
+- Jaehong Shim (<a href="mailto:jaehongshim@uchicago.edu">jaehongshim@uchicago.edu</a>)
+
 
 <h3>Land Acknowledgement:</h3>
 
