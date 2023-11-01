@@ -4,7 +4,7 @@ title: Call for Papers
 ---
 
 <h2>
-  CLS 60 is in the Works!
+  CLS 60 April 26-28, 2024 at the University of Chicago!
 </h2>
 
 
@@ -77,17 +77,16 @@ Submissions that fail to comply with any of the following guidelines will be aut
 
 <h3>Important Dates:</h3>
 
-Submission deadline: <s>January 8, 2023 at 23:59</s>, <em>extended to</em> <b>January 15, 2023 at 23:59</b>
-
+Submission deadline: <s>January 7, 2024 at 23:59
 Notification: First week of March
 
-Conference dates: April 28 - April 30, 2023
+Conference dates: April 26 - April 28, 2024
 
 <h3>Organizers:</h3>
 
-- Akshay Aitha
-- Kutay Serova
-- Madeline Snigaroff
+- Xiaobei Chen
+- Sercan Karakas
+- Jaehong Shim
 
 <h3>Land Acknowledgement:</h3>
 
