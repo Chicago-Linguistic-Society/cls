@@ -36,12 +36,12 @@ Please keep coming back for details and the *call for papers* for the next annua
   CALL FOR PAPERS
 </h2>
 <h3>
-  59th Meeting of the Chicago Linguistic Society<br>
+  60th Meeting of the Chicago Linguistic Society<br>
 </h3>
 
-_April 28 – April 30, 2023, at THE UNIVERSITY OF CHICAGO_
+_April 26 – April 28, 2024, at THE UNIVERSITY OF CHICAGO_
   
-**Call Deadline:** <s>January 8, 2023 at 23:59</s>, <em>Extended to:</em> <b>January 15, 2023 at 23:59</b> US Central Standard Time (GMT-6)
+**Call Deadline:** January 7, 2024 at 23:59 US Central Standard Time (GMT-6)
 
 <h3>Meeting Description:</h3>
   
