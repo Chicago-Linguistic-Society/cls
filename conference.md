@@ -7,7 +7,8 @@ title: Conference
 
 CLS 59 took place in the University of Chicago through April 28-30, 2023.
 
-CLS 60 is planned for April 26-28, 2024. <strong>10/31/2023: Call for Papers is out!</strong>
+CLS 60 is planned for April 26-28, 2024. 
+<strong>10/31/2023: Call for Papers is out!</strong>
 
 
 <!--
