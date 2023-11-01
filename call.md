@@ -77,10 +77,11 @@ Submissions that fail to comply with any of the following guidelines will be aut
 
 <h3>Important Dates:</h3>
 
-Submission deadline: <s>January 7, 2024 at 23:59
-Notification: First week of March
+Submission deadline: <strong>January 7, 2024 at 23:59</strong>
+Notification: <strong>First week of March</strong>
 
-Conference dates: April 26 - April 28, 2024
+Conference dates: <strong>April 26 - April 28, 2024</strong>
+
 
 <h3>Organizers:</h3>
 
