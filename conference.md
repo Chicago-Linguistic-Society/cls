@@ -20,6 +20,13 @@ CLS 60 is planned for April 26-28, 2024.
 -  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
 - <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
+- <h3>Organizers:</h3>
+
+- Xiaobei Chen
+- Sercan Karakas
+- Jaehong Shim
+
+
 <!--
 
 # Program
