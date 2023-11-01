@@ -45,34 +45,44 @@ _April 26 – April 28, 2024, at THE UNIVERSITY OF CHICAGO_
 
 <h3>Meeting Description:</h3>
   
-The Chicago Linguistic Society is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 59th annual meeting, which will be held from Friday, April 28 to Sunday, April 30, 2023.
+The Chicago Linguistic Society is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 60th annual meeting, which will be held from Friday, April 26 to Sunday, April 28, 2024. All presentations will be conducted in person at the University of Chicago.
 
 <h3>Call for Papers:</h3>
 
-The Chicago Linguistic Society invites abstracts in any area of current research on the human language faculty, including but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, and all relevant interfaces and allied fields in cognitive/social sciences. We particularly encourage submissions relevant to this year’s proposed special sessions, detailed below.
-
+The Chicago Linguistic Society invites abstracts in any area of linguistic research, including but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, and all relevant interfaces and allied fields in cognitive/social sciences. We particularly encourage submissions relevant to this year’s proposed special sessions, detailed below.
 Presenters will be given 20 minutes for their presentation followed by a 10-minute question period. Presented papers will be published in the CLS proceedings. This year’s conference features a poster session; those presenting a poster may be chosen as alternates for talks. All talks and poster presentations will be published as regular papers in the proceedings.
+
 
 <h3>Special Topics:</h3>
 
 We particularly encourage submissions relevant to this year’s proposed special topics:
 
-- Ancient languages
-- Arctic languages
-- Syntax-prosody interface
+<strong>Syntactic/semantic changes</strong>
+We welcome submissions that address diachronic changes in syntax and semantics. Topics of interest include shifts and patterns in word order, changes in alignment and argument structure, the relationship between information structure and word order, grammaticalization, the development of functional elements through the use of lexical items, semantic categorization and generalization, and inventory reduction resulting from semantic changes.
 
-Details on each of the special topics can be found on EasyChair ([https://easychair.org/conferences/?conf=cls59](https://easychair.org/conferences/?conf=cls59)) and our website ([http://chicagolinguisticsociety.org/call.html](http://chicagolinguisticsociety.org/call.html))
+<strong>Language contact</strong>
+This session focuses on language/dialect contact, encompassing a wide range of topics including contact-induced linguistic changes, borrowing, code-switching, code-shifting, Pidgins and Creoles, and sociolinguistic mechanisms of language contact. We especially encourage contributions that bring innovative perspectives to loanword adaptation, pivot-matching in language convergence, diglossia, and societal multilingualism.
+
+<strong>Balkan Languages</strong>
+Balkan languages, with their complex linguistic interplay and rich historical heritage, hold a pivotal role in linguistic studies. We welcome any submissions that explore the structural aspects of Balkan and neighboring languages and dialects from both synchronic and diachronic perspectives. Additionally, we encourage research on (micro)variations within these languages.
+
+<strong>Negation and Polarity</strong>
+We welcome contributions that examine the manifestation of negation and polarity in diverse languages, both from a synchronic and diachronic perspective. Topics of interest include the morphosyntactic and semantic properties of negation, the role of polarity items and their distribution, the interaction of negation with other linguistic elements, the implications of negation for discourse, and the pragmatic aspects of negation and polarity.
+
+
 
 <h3>Abstract Guidelines:</h3>
 
 Submissions that fail to comply with any of the following guidelines will be automatically rejected.
-
-Submit abstracts in PDF format with the filename PaperTitle.pdf.
-Include the paper title and keywords (e.g., CLS special session title if applicable, linguistic subfield(s), language(s)/language family) within the abstract.
-Limit abstracts to two US letter-sized pages in length, including data and references (just select references are acceptable). Use one-inch margins and a font size no smaller than 11 point. Incorporate data into the main text of the abstract, not on a separate page.
-Anonymize submissions by not including author name(s) in the abstract or filename.
-Use the EasyChair platform ([https://easychair.org/conferences/?conf=cls59](https://easychair.org/conferences/?conf=cls59)) for the submission of abstracts.
-Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.
+<ol>
+  <li>Submit abstracts in PDF format with the filename PaperTitle.pdf.</li>
+  <li>Include the paper title and keywords (e.g., CLS special session title if applicable, linguistic subfield(s), language(s)/language family) within the abstract.</li>
+  <li>Limit abstracts to two US letter-sized pages in length, including data and references (just select references are acceptable). Use one-inch margins and a font size no smaller than 11 point.</li>
+  <li>Incorporate data into the main text of the abstract, not on a separate page.</li>
+  <li>Anonymize submissions by not including author name(s) in the abstract or filename.</li>
+  <li>Use the Oxford Abstracts platform (<a href="https://app.oxfordabstracts.com/stages/6919/submitter">https://app.oxfordabstracts.com/stages/6919/submitter</a>) for the submission of abstracts.</li>
+  <li>Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.</li>
+</ol>
 
 <h3>Invited Speakers:</h3>
 
