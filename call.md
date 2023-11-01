@@ -46,7 +46,7 @@ We welcome submissions that address diachronic changes in syntax and semantics. 
 This session focuses on language/dialect contact, encompassing a wide range of topics including contact-induced linguistic changes, borrowing, code-switching, code-shifting, Pidgins and Creoles, and sociolinguistic mechanisms of language contact. We especially encourage contributions that bring innovative perspectives to loanword adaptation, pivot-matching in language convergence, diglossia, and societal multilingualism.
 
 <strong>Balkan Languages</strong>
-Balkan languages, with their complex linguistic interplay and rich historical heritage, hold a pivotal role in linguistic studies. We welcome any submissions that explore the structural aspects of Balkan and neighboring languages and dialects from both synchronic and diachronic perspectives. Additionally, we encourage research on (micro)variations within these languages.
+Balkan languages, with their complex linguistic interplay, hold a pivotal role in linguistic studies. We welcome any submissions that explore the structural aspects of Balkan and neighboring languages and dialects from both synchronic and diachronic perspectives. Additionally, we encourage research on (micro)variations within these languages.
 
 <strong>Negation and Polarity</strong>
 We welcome contributions that examine the manifestation of negation and polarity in diverse languages, both from a synchronic and diachronic perspective. Topics of interest include the morphosyntactic and semantic properties of negation, the role of polarity items and their distribution, the interaction of negation with other linguistic elements, the implications of negation for discourse, and the pragmatic aspects of negation and polarity.
