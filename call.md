@@ -30,7 +30,7 @@ Please keep coming back for details and the *call for papers* for the next annua
 </ul>
 </div>
 
-<!--
+
 
 <h2>
   CALL FOR PAPERS
@@ -121,4 +121,4 @@ Arctic languages are not defined by a particular latitude, but rather encompass 
 
 The interaction between prosody (rhythmic and metrical structure at levels higher than the word) and syntax (the form of sentences and words) has been a large focus of research in the formal (and experimental) linguistic community for many decades. We welcome any submissions relating to the interface between prosody and syntax in any language and from any methodological approach.
 
--->
+
