@@ -7,28 +7,10 @@ title: Call for Papers
   CLS 60 is in the Works!
 </h2>
 
-Please keep coming back for details and the *call for papers* for the next annual iteration of the Chicago Linguistic Society, CLS 60, which is scheduled to take place from April 26-28, 2024!
 
-<h3>Invited Speakers:</h3>
-
-- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
-- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
-- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
-- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
--  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
-- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
 
   
 
-<div class="organizers">
-<h3>CLS 60 Organizers</h3>
-<ul style="list-style:none;">
-    <li>Xiaobei Chen</li>
-    <li>Sercan Karakas</li>
-    <li>Jaehong Shim</li>
-    
-</ul>
-</div>
 
 
 
@@ -117,18 +99,13 @@ Please email us at _chicagolinguisticsociety.cls59@gmail.com_ for any questions 
 
 __________________________________________________________________________
 
-<h3>Special Topics</h3>
-
-**Ancient languages:**
-
-While the study of ancient and liturgical languages has traditionally been associated with philological work and historical linguistics, we would like to showcase work from all theoretical linguistic disciplines and interdisciplinary work that deal with linguistic data and the methodology of working with ancient and liturgical languages without native speaker consultants.
-
-**Arctic languages:**
-
-Arctic languages are not defined by a particular latitude, but rather encompass the indigenous languages spoken in the northernmost region of the globe, an area historically understudied. Arctic language linguistics might involve formalist subfields, sociolinguistics, historical linguistics, linguistic anthropology, language revitalization, or any other area pertaining to language.
-
-**Prosody-syntax interface:**
-
-The interaction between prosody (rhythmic and metrical structure at levels higher than the word) and syntax (the form of sentences and words) has been a large focus of research in the formal (and experimental) linguistic community for many decades. We welcome any submissions relating to the interface between prosody and syntax in any language and from any methodological approach.
-
+<div class="organizers">
+<h3>CLS 60 Organizers</h3>
+<ul style="list-style:none;">
+    <li>Xiaobei Chen</li>
+    <li>Sercan Karakas</li>
+    <li>Jaehong Shim</li>
+    
+</ul>
+</div>
 
