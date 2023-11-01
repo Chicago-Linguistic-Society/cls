@@ -94,7 +94,7 @@ The Chicago Linguistic Society is headquartered at the University of Chicago, wh
 
 <h3>Questions?</h3>
 
-Please email us at _chicagolinguisticsociety.cls59@gmail.com_ for any questions or issues that may arise.
+Please email us at _chicagolinguisticsociety.cls60@gmail.com_ for any questions or issues that may arise.
 
 __________________________________________________________________________
 
