@@ -25,7 +25,7 @@ _April 26 – April 28, 2024, at THE UNIVERSITY OF CHICAGO_
   
 <p> <del>Call Deadline: January 7, 2024 at 23:59 US Central Standard Time (GMT-6)</del></p>
 
-<p><strong> Call Deadline Extended: January 14, 2014 at 23:59 US Central Standard Time (GMT-6)</strong></p>
+<p><strong> Call Deadline Extended: January 14, 2024 at 23:59 US Central Standard Time (GMT-6)</strong></p>
 
 
 <h3>Meeting Description:</h3>
