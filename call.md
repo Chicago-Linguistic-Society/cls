@@ -23,7 +23,6 @@ title: Call for Papers
 
 _April 26 – April 28, 2024, at THE UNIVERSITY OF CHICAGO_
   
-**Call Deadline:** January 7, 2024 at 23:59 US Central Standard Time (GMT-6)
 <p> <del>Call Deadline: January 7, 2024 at 23:59 US Central Standard Time (GMT-6)</del></p>
 
 <p> Call Deadline Extended: <strong>January 14, 2014 at 23:59 US Central Standard Time (GMT-6)</strong></p>
