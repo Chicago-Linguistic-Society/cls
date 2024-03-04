@@ -81,7 +81,7 @@ Submissions that fail to comply with any of the following guidelines will be aut
 <h3>Important Dates:</h3>
 
 <strong>Extended Submission deadline:</strong> January 14, 2024 at 23:59 US Central Standard Time (GMT-6)<br>
-<strong>Notification:</strong> First week of March<br>
+<strong>Notification:</strong> March 15, 2024<br>
 <strong>Conference dates:</strong> April 26 - April 28, 2024<br>
 
 
