@@ -21,6 +21,7 @@ NOTE: We don't accept payment by PayPal.
 
 
 
+<!--
 <strong>Invited Speakers</strong>
 
 - <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
@@ -29,6 +30,7 @@ NOTE: We don't accept payment by PayPal.
 - <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
 -  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
 - <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
+-->
 
 
 
