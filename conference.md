@@ -16,7 +16,7 @@ If you are attending the Saturday night banquet, you should add $30 USD to your 
 
 NOTE: We don't accept payment by PayPal.
 
-<strong> Note: All attendees, whether presenting research or not, are required to fill out <a href="https://forms.gle/ruGQkiXba5Lyk9cFA">the registration form</a>.</strong></li>
+<strong> NOTE: All attendees, whether presenting research or not, are required to fill out <a href="https://forms.gle/ruGQkiXba5Lyk9cFA">the registration form</a>.</strong></li>
 
 
 
