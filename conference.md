@@ -16,7 +16,8 @@ If you are attending the Saturday night banquet, you should add $30 USD to your 
 
 NOTE: We don't accept payment by PayPal.
 
-NOTE: All attendees, whether presenting research or not, are required to fill out the registration form. Also note that this year's conference will be **in-person only**, so please do not fill out the form if you will not be able to come to Chicago in April. 
+<li><strong> Note: All attendees, whether presenting research or not, are required to fill out <a href="https://forms.gle/ruGQkiXba5Lyk9cFA">the registration form</a>.</strong></li>
+
 
 
 <strong>Invited Speakers</strong>
