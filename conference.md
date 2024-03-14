@@ -3,16 +3,8 @@ layout: page
 title: Conference
 ---
 
-# CLS 60 is in the works!
 
-# CLS 59 took place in the University of Chicago through April 28-30, 2023.
-
-CLS 60 is planned for April 26-28, 2024. 
-#<strong>10/31/2023: Call for Papers is out!</strong> <a href="http://chicagolinguisticsociety.org/call.html">Click here</a>
-
-
-
-Registration
+Conference Registration
 
 Registration is now open for CLS 60! If you plan to attend, please fill out the registration form. Registration rates are as follows:
 - UChicago, Northwestern, UIC, and other Chicago students - FREE
