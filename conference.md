@@ -11,16 +11,8 @@ CLS 60 is planned for April 26-28, 2024.
 #<strong>10/31/2023: Call for Papers is out!</strong> <a href="http://chicagolinguisticsociety.org/call.html">Click here</a>
 
 
-#<strong>Invited Speakers</strong>
 
-- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
-- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
-- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
-- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
--  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
-- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
-
-- Registration
+Registration
 
 Registration is now open for CLS 60! If you plan to attend, please fill out the registration form. Registration rates are as follows:
 - UChicago, Northwestern, UIC, and other Chicago students - FREE
@@ -33,6 +25,17 @@ If you are attending the Saturday night banquet, you should add $30 USD to your 
 NOTE: We don't accept payment by PayPal.
 
 NOTE: All attendees, whether presenting research or not, are required to fill out the registration form. Also note that this year's conference will be **in-person only**, so please do not fill out the form if you will not be able to come to Chicago in April. 
+
+
+<strong>Invited Speakers</strong>
+
+- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
+- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
+- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
+- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
+-  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
+- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
+
 
 
 - <h3>Organizers:</h3>
