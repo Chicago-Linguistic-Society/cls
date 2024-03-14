@@ -42,17 +42,17 @@ The conference program can found here: [<a href="http://chicagolinguisticsociety
 * Richard Compton - Disagreeing about agreement in Inuktitut
 * Troy Messick - The locality of cross-clausal A-operations: A view from Telugu
 
-# Registration
+Registration
 
-Registration is now open for CLS 59! If you plan to attend, please fill out <a href="https://forms.gle/3HRJhQF2D8Kv8bmYA">this form</a>. Registration rates are as follows:
+Registration is now open for CLS 60! If you plan to attend, please fill out the registration form. Registration rates are as follows:
 - UChicago, Northwestern, UIC, and other Chicago students - FREE
 - Non-Chicago students - $40 USD
-- Recent PhDs - $80 USD
-- Faculty/others - $120 USD
+- Recent PhDs - $90 USD
+- Faculty/others - $130 USD
 
-If you are attending the Saturday night banquet, you should add $20 USD to your total. Registration fees are due in **cash or check at the door.**
+If you are attending the Saturday night banquet, you should add $30 USD to your total. Registration fees are due in **cash or check at the door.**
 
-NOTE: We are no longer accepting payment by PayPal. We sincerely apologize for the confusion! If you happen to already have paid, no worries - you're all set! 
+NOTE: We don't accept payment by PayPal.
 
 NOTE: All attendees, whether presenting research or not, are required to fill out the registration form. Also note that this year's conference will be **in-person only**, so please do not fill out the form if you will not be able to come to Chicago in April. 
 
