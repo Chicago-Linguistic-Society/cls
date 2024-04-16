@@ -41,7 +41,7 @@ NOTE: We don't accept payment by PayPal.
 - <h3>Organizers:</h3>
 
 - Xiaobei Chen
-- Sercan Karakas
+- Sercan Karakaş
 - Jaehong Shim
 
 
