@@ -5,6 +5,7 @@ title: Conference Registration
 
 
 Conference Registration
+
 <strong>The schedule is out! <a href="https://github.com/Chicago-Linguistic-Society/cls/raw/master/CLS60_program-14%20(1).pdf" download>Click <strong>here</strong> to download it!</a></strong>
 
 
