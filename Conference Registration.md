@@ -5,8 +5,7 @@ title: Conference Registration
 
 
 Conference Registration
-
-<strong>The schedule is out! <a href="https://github.com/Chicago-Linguistic-Society/cls/blob/master/FINALCLS60.pdf" download>Click <strong>here</strong> to download it!</a></strong>
+<strong>The schedule is out! <a href="https://github.com/Chicago-Linguistic-Society/cls/raw/master/FINALCLS60.pdf" download>Click <strong>here</strong> to download it!</a></strong>
 
 
 Registration is now open for CLS 60! If you plan to attend, please fill out the registration form. Registration rates are as follows:
