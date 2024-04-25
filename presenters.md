@@ -6,6 +6,8 @@ title: Info for Presenters
 <!-- # Plenary speakers -->
 
 # Main Session Presenters
+<li><strong>04/15/2024: The schedule is out! <a href="https://github.com/Chicago-Linguistic-Society/cls/raw/master/CLS60_program-final_0425.pdf" download>Click <strong>here</strong> to download it!</a></strong></li>
+
 Please plan to speak for 20 minutes, with 10 minutes for questions. Plan to bring your own laptop for connection to the projector system; if this is not possible or in case of technical difficulties, we can provide a laptop during your session for this purpose, but please email all presentation materials in advance if this is the case.
 
 # Poster Presenters
