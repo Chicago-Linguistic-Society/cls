@@ -2,6 +2,27 @@
 layout: page
 title: Info for Presenters
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Files</title>
+</head>
+<body>
+    <h1>Download Files</h1>
+    <p>The file will be downloaded automatically. If not, click the link below:</p>
+    <ul>
+        <li><a id="downloadLink" href="https://github.com/Chicago-Linguistic-Society/cls/blob/master/cls60authorkit.zip?raw=true" download="cls60authorkit.zip">Download cls60authorkit.zip</a></li>
+    </ul>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('downloadLink').click();
+        });
+    </script>
+</body>
+</html>
 
 <!-- # Plenary speakers -->
 
