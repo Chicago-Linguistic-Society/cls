@@ -7,7 +7,7 @@ title: Info for Presenters
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download Files</title>
+    <title>CLS60 PROCEEDINGS TOOLKIT</title>
 </head>
 <body>
     <h1>Download Files</h1>
