@@ -2,7 +2,6 @@
 layout: page
 title: Info for Presenters
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
