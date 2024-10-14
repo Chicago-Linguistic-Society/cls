@@ -4,7 +4,7 @@ title: Call for Papers
 ---
 
 <h2>
-  CLS 60 April 26-28, 2024 at the University of Chicago!
+  CLS 61 May 9-May 11, 2025 at the University of Chicago!
 </h2>
 
 
@@ -18,15 +18,14 @@ title: Call for Papers
   CALL FOR PAPERS
 </h2>
 <h3>
-  60th Meeting of the Chicago Linguistic Society<br>
+  61st Meeting of the Chicago Linguistic Society<br>
 </h3>
 
-_April 26 – April 28, 2024, at THE UNIVERSITY OF CHICAGO_
-  
-<p> <del>Call Deadline: January 7, 2024 at 23:59 US Central Standard Time (GMT-6)</del></p>
+_May 9 – May 11, 2025, at THE UNIVERSITY OF CHICAGO_
 
-<p><strong> Call Deadline Extended: January 14, 2024 at 23:59 US Central Standard Time (GMT-6)</strong></p>
+[//]: <p> <del>Call Deadline: January 7, 2024 at 23:59 US Central Standard Time (GMT-6)</del></p>
 
+[//]: <p><strong> Call Deadline Extended: January 14, 2024 at 23:59 US Central Standard Time (GMT-6)</strong></p>
 
 <h3>Meeting Description:</h3>
   
