@@ -6,6 +6,8 @@ title: Previous Conferences
 # Previous CLS Conferences
 
 Here you can find the programs of some previous CLS conferences, some of them containing brief descriptions of the papers presented.
+- [CLS 60]({{ site.baseurl }}/public/CLS60.pdf)
+- [CLS 59]({{ site.baseurl }}/public/CLS_59_Schedule_Apr27.pdf)
 - [CLS 58]({{ site.baseurl }}/public/CLS_58.pdf)
 - [CLS 57]({{ site.baseurl }}/public/CLS_57_Schedule.pdf) [Abstracts](https://drive.google.com/drive/folders/10fP_PiUt6N2RvN6hExPRw8bU4mhmUvuq?usp=sharing)
 - CLS 56 [Digital Repository (last updated: September 29, 2020)]({{ site.baseurl }}/public/CLS56-Program_Sep29_v2.pdf)
