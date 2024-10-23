@@ -18,7 +18,7 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               the chicago linguistic society
+title:               The Chicago Linguistic Society
 tagline:             'at <a href="http://www.uchicago.edu/">The University of Chicago</a>'
 description:         ''
 url:                 https://github.com/elotroalex/ed
@@ -26,9 +26,9 @@ baseurl:             ''
 
 # About/contact
 author:
-  name:              Orest Xherija
+  name:              Gabriel H. Gilbert
   url:               
-  email:             orest.xherija@uchicago.edu
+  email:             ghgilbert@uchicago.edu
 
 # Custom vars
 version:             0.0.3
