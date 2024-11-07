@@ -4,64 +4,42 @@ title: Conference Registration
 ---
 
 
-Conference Registration
+<h2>Conference Registration</h2>
 
-<li><strong>04/15/2024: The schedule is out! <a href="https://github.com/Chicago-Linguistic-Society/cls/raw/master/CLS60_program-final_0425.pdf" download>Click <strong>here</strong> to download it!</a></strong></li>
+<strong>Registration information for CLS 61 will be here in the future!</strong>
 
 
-Registration is now open for CLS 60! If you plan to attend, please fill out the registration form. Registration rates are as follows:
+Our rates for registration within CLS are as follows:
 - UChicago, Northwestern, UIC, and other Chicago students - FREE
 - Non-Chicago students - $40 USD
-- Recent PhDs - $90 USD
+- Recent PhDs (<5 years) - $90 USD
 - Faculty/others - $130 USD
 
-If you are attending the Saturday night banquet, you should add $30 USD to your total. Registration fees are due in **cash or check at the door.**
+If you are attending the Saturday night banquet on May 10, you should add $30 USD to your total. Registration fees are due in **cash or check at the door.**
 
-NOTE: We don't accept payment by PayPal.
+<strong>NOTE 1:</strong> We don't accept payment by PayPal.
 
-<strong>NOTE: All attendees, whether presenting research or not, are required to fill out <a href="https://forms.gle/ruGQkiXba5Lyk9cFA">the registration form</a>.</strong>
-
-
+<strong>NOTE 2: All attendees, whether presenting research or not, are required to fill out a registration form (stay tuned).</strong>
 
 
 
-<!--
-<strong>Invited Speakers</strong>
+<h3>Invited Speakers</h3>
 
-- <a href="https://www.leibniz-zas.de/en/people/details/alexiadou-artemis/alexiadou-artemis/">Artemis Alexiadou</a> (ZAS Berlin, Humboldt University of Berlin)
-- <a href="https://sites.lsa.umich.edu/beddor//">Patrice Beddor</a> (University of Michigan)
-- <a href="https://www.ling.upenn.edu/~embick///">David Embick</a> (University of Pennsylvania)
-- <a href="https://people.ucsc.edu/~farkas////">Donka Farkas</a> (University of California, Santa Cruz)
--  <a href="https://www.kaivonfintel.org/about///">Kai von Fintel</a> (Massachusetts Institute of Technology)
-- <a href="https://lucian.uchicago.edu/blogs/grenoble//">Lenore Grenoble</a> (University of Chicago)
--->
+- <a href="https://liberalarts.utexas.edu/linguistics/faculty/asd853">Ashwini Deo</a> (The University of Texas at Austin)
+- <a href="https://slhs.sdsu.edu/people/faculty/emmorey-karen">Karen Emmorey</a> (San Diego State University)
+- <a href="https://ed.stanford.edu/faculty/acharity">Anne Harper Charity Hudley</a> (Stanford University)
+- <a href="https://linguistics.uchicago.edu/people/itamar-francez">Itamar Francez</a> (The University of Chicago)
+- <a href="https://linguistics.mit.edu/user/kenstow/">Michael Kenstowicz</a> (Massachusetts Institute of Technology)
+- <a href="https://linguistics.mit.edu/user/norvin/">Norvin Richards</a> (Massachusetts Institute of Technology)
 
 
 
-- <h3>Organizers:</h3>
+<h3>Organizers:</h3>
 
-- Xiaobei Chen
-- Sercan Karakaş
-- Jaehong Shim
-
-
-<!--
-
-# Program
-
-The conference program can found here: [<a href="http://chicagolinguisticsociety.org/public/CLS_59_Schedule_Apr27.pdf">PDF</a>]. (Last Updated: April 27, 2023).
-
-## Invited Talks
-
-* Chris Kennedy - <a href="http://chicagolinguisticsociety.org/public/cls59_abstracts/kennedy.pdf">Zeroing in on exclusively exclusive content</a>
-* Line Mikkelsen - Hyperraising in Kalaallisut
-* Natalie Weber - Early prosodification but late metrification in Blackfoot verbs
-* Prerna Nadathur - Causal dependence in actuality inferences: The implicativity of enough and too predicates
-* Richard Compton - Disagreeing about agreement in Inuktitut
-* Troy Messick - The locality of cross-clausal A-operations: A view from Telugu
-
-
-
--->
-
+- Jeffery Davis (*jgdavis[at]uchicago[dot]edu*)
+- Taela Dudley (*dudleytd[at]uchicago[dot]edu*)
+- Peter Gado (*pgado[at]uchicago[dot]edu*)
+- Gabriel H. Gilbert (*ghgilbert[at]uchicago[dot]edu*)
+- Chunan Li (*chunanli[at]uchicago[dot]edu*)
+- Yiin Wang (*yiin[at]uchicago[dot]edu*)
 
