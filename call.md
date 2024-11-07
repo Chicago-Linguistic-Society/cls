@@ -65,7 +65,7 @@ Submissions that fail to comply with any of the following guidelines will be aut
   <li>Limit abstracts to two US letter-sized pages in length, including data and references (select references acceptable), with one-inch margins and font size no smaller than 11 point.</li>
   <li>Incorporate data into the main text of the abstract, not on a separate page.</li>
   <li>**Anonymize submissions** by not including author or institution name(s) in the abstract or filename.</li>
-  <li>Submit abstracts via the Oxford Abstracts platform (<strong><a href="[https://app.oxfordabstracts.com/stages/6919/submitter](https://app.oxfordabstracts.com/stages/77083/submitter)">click here for abstract submission</a></strong>) for the submission of abstracts.</li>
+  <li>Submit abstracts via the Oxford Abstracts platform (<strong><a href="https://app.oxfordabstracts.com/stages/77083/submitter">click here for abstract submission</a></strong>) for the submission of abstracts.</li>
   <li>Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.</li>
 </ol>
 
