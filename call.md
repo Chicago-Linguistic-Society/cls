@@ -23,7 +23,7 @@ title: Call for Papers
 
 _May 9 – May 11, 2025, at THE UNIVERSITY OF CHICAGO_
 
-<p>Call Deadline: January 19, 2025 at 23:59 US Central Standard Time (GMT-6)</del></p>
+<p>Call Deadline: January 19, 2025 at 23:59 US Central Standard Time (GMT-6)</p>
 <p>Notification: March 10, 2025</p>
 
 <h3>Meeting Description:</h3>
