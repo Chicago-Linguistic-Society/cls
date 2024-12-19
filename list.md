@@ -17,7 +17,7 @@ Shipping and handling **within the United States** is $5 for the first book and 
 
 Citation Information: We have provided the title, editors, and publication year for each issue of the CLS proceedings in the table below. Clicking on the volume number in the leftmost column will lead you to a copy of the table of contents for that issue including individual paper titles, authors, and page numbers. We self-publish, so the publisher would be Chicago Linguistic Society and the address would be Chicago, Illinois.
 
-Note: We now have PDFs of all published issues available in the cloud [here](https://drive.google.com/drive/folders/1o09xbZ2fsvXmxTDe0P84hPlcoopvrzKd?usp=sharing). Happy reading! 
+Note: We now have PDFs of all published issues available via Google Drive [here](https://drive.google.com/drive/folders/1o09xbZ2fsvXmxTDe0P84hPlcoopvrzKd?usp=sharing). Happy reading! 
 
 
 
