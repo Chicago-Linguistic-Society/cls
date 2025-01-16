@@ -23,7 +23,8 @@ title: Call for Papers
 
 _May 9 – May 11, 2025, at THE UNIVERSITY OF CHICAGO_
 
-<p>Call Deadline: January 19, 2025 at 23:59 US Central Standard Time (GMT-6)</p>
+<p><b>DEADLINE EXTENDED: January 26, 2025 at 23:59 US Central Standard Time (GMT-6)</b></p>
+<p><s>Call Deadline: January 19, 2025 at 23:59 US Central Standard Time (GMT-6)</s></p>
 <p>Notification: March 10, 2025</p>
 
 <h3>Meeting Description:</h3>
@@ -80,7 +81,7 @@ Submissions that fail to comply with any of the following guidelines will be aut
 
 <h3>Important Dates:</h3>
 
-<strong>Extended Submission deadline:</strong> January 19, 2025 at 23:59 US Central Standard Time (GMT-6)<br>
+<strong>Extended Submission deadline:</strong> January 26, 2025 at 23:59 US Central Standard Time (GMT-6)<br>
 <strong>Notification:</strong> March 10, 2025<br>
 <strong>Conference dates:</strong> May 9 - May 11, 2025<br>
 
