@@ -35,14 +35,16 @@ Note: We now have PDFs of all published issues available via Google Drive [here]
     <th align="center">Editors</th>
   </tr>
   <tr>
-    <td align="center">59</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1t22Gqpjgj5unIwE0Q-_Up5K4-x03PwyA/view?usp=drive_link"
+title="cls59">59</a></td>
     <td align="center">2024</td>
     <td align="left">Proceedings of the Fifty-ninth Annual Meeting of the Chicago Linguistic Society</td>
     <td align="center">$95</td>
     <td align="left">Kutay Serova, M. K. Snigaroff</td>
   </tr>
   <tr>
-    <td align="center">58</td>
+    <td align="center"><a href="https://drive.google.com/file/d/17MWXLrz72w1COP-AIoTrAlYpLiVv9QAm/view?usp=drive_link"
+title="cls58">58</a></td>
     <td align="center">2023</td>
     <td align="left">Proceedings of the Fifty-eighth Annual Meeting of the Chicago Linguistic Society</td>
     <td align="center">$95</td>
