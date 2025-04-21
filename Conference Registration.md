@@ -6,7 +6,7 @@ title: Conference Registration
 
 <h2>Conference Registration</h2>
 
-<strong>Registration information for CLS 61 will be here in the future!</strong>
+<strong>REGISTRATION IS NOW OPEN!</strong> <a href="Click here to access the registration form.">https://docs.google.com/forms/d/e/1FAIpQLSdKjnFN_Py6f-qP_Yui861g9kESofxaY92Q0Fb-_w4SiHLkng/viewform?usp=sharing</a> Please fill out the registration form by 4 May, 2025 to ensure we have the correct numbers for on-site refreshments, t-shirt sizes, and nametags. On-site registration will be available.
 
 
 Our rates for registration within CLS are as follows:
