@@ -63,7 +63,7 @@ Here you can find the programs of some previous CLS conferences, as well as the 
 
 # Other Resources
 - [CLS: History up to 1973]({{ site.baseurl }}/public/previous/CLS History thru 1973_ Peranteau-2.pdf) (Paul Peranteau, 1973)
-- [CLS 8 (1972): Chicago Which Fest (Relative Clause Festival) Q & A Periods (audio recordings)] (https://drive.google.com/drive/folders/1pc6Zo6vxwi9chiGpWiv9NCCvnz95wjlD)
+- [CLS 8 (1972): Chicago Which Fest (Relative Clause Festival) Q & A Periods (audio recordings)](https://drive.google.com/drive/folders/1pc6Zo6vxwi9chiGpWiv9NCCvnz95wjlD)
 - [CLS 18 (1982): Dwight Bollinger plenary (audio recording)](https://drive.google.com/drive/u/1/folders/1hF0ahkEnalu0qsO0qHb-eW9FoO47DCE4)
 - [CLS 26 (1990): Audio Recordings (most talks + parasession)](https://drive.google.com/drive/u/1/folders/1Ja4pXbJUu0Ipn91eea_5yDgKv_ZeQNzn)
 
