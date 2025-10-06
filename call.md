@@ -4,30 +4,15 @@ title: Call for Papers
 ---
 
 <h2>
-  CLS 61 May 9-May 11, 2025 at the University of Chicago!
-</h2>
-
-
-
-  
-
-
-
-
-<h2>
   CALL FOR PAPERS
 </h2>
 <h3>
-  61st Meeting of the Chicago Linguistic Society<br>
+  62nd Meeting of the Chicago Linguistic Society<br>
 </h3>
 
-_May 9 – May 11, 2025, at THE UNIVERSITY OF CHICAGO_
+Coming soon!
 
-<p><b>DEADLINE EXTENDED: January 26, 2025 at 23:59 US Central Standard Time (GMT-6)</b></p>
-<p><s>Call Deadline: January 19, 2025 at 23:59 US Central Standard Time (GMT-6)</s></p>
-<p>Notification: March 10, 2025</p>
-
-<h3>Meeting Description:</h3>
+<!-- <h3>Meeting Description:</h3>
   
 The Chicago Linguistic Society (CLS) is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 61st Annual Meeting, which will be held from Friday, May 9 to Sunday, May 11, 2025. All presentations will be conducted in-person at the University of Chicago.
 
@@ -117,5 +102,4 @@ __________________________________________________________________________
     <li>Yiin Wang</li>
     
 </ul>
-</div>
-
+</div> -->
