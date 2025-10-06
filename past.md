@@ -16,6 +16,7 @@ Peranteau cites George Lakoff (1973), who stated that the proceedings of CLS 5 t
 While the first three regional meetings were single-day affairs with no published proceedings, the fourth regional meeting started the tradition of both published proceedings and multi-day meetings. From CLS 8 (1972) until CLS 47 (2011), the proceedings were published as two volumes, one containing the papers from the main session and another containing papers from the 'parasession(s)'. As of 2025 (most recent published proceedings: CLS 60), the papers from both the general sessions and the special sessions are compiled into a single volume. The first two secondary volumes were given humorous names: "The Chicago Which Hunt: Papers from the Relative Clause Festival", and "You Take the High Node and I'll Take the Low Node, Papers from the Comparative Syntax Festival: The Differences between Main and Subordinate Clauses". 
 
 Here you can find the programs of some previous CLS conferences, as well as the programs of the pre-1965 CLS monthly meetings, some of them containing brief descriptions of the papers presented.
+- [CLS 61 (2025)]({{ site.baseurl }}/public/CLS_61-Program.pdf)
 - [CLS 60 (2024)]({{ site.baseurl }}/public/CLS60.pdf)
 - [CLS 59 (2023)]({{ site.baseurl }}/public/CLS_59_Schedule_Apr27.pdf)
 - [CLS 58 (2022)]({{ site.baseurl }}/public/CLS_58.pdf)
@@ -32,7 +33,7 @@ Here you can find the programs of some previous CLS conferences, as well as the 
   
   </details>
   
-- [CLS 55 (2019)]({{ site.baseurl }}/public/CLS55_Program.pdf)                                                                                                 
+- [CLS 55 (2019)]({{ site.baseurl }}/public/CLS55_Program.pdf)
 - [CLS 54 (2018)]({{ site.baseurl }}/public/CLS54_program.pdf)
 - [CLS 53 (2017)]({{ site.baseurl }}/public/CLS53_Booklet.pdf)
 - [CLS 52 (2016)]({{ site.baseurl }}/public/cls52booklet.pdf)
