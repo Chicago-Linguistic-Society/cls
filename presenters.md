@@ -8,10 +8,13 @@ title: Info for Presenters
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
+<body>
 <!-- # Download Files 
 
 You can download here the toolkit for writing the proceedings:
 <a href="https://github.com/Chicago-Linguistic-Society/cls/blob/master/cls60authorkit.zip?raw=true" download="cls60authorkit.zip">cls60authorkit.zip</a> -->
+</body>
+</html>
 
 <!-- # Plenary speakers -->
 
@@ -36,5 +39,3 @@ Alternate: Booth School of Business<br>
 
 Our poster boards can accommodate posters up to size 36" x 48" (smaller is perfectly fine).<br>
 There are no specific requirements, but do ensure your name and institution are visible.<br>
-
-
