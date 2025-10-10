@@ -7,99 +7,67 @@ title: Call for Papers
   CALL FOR PAPERS
 </h2>
 <h3>
-  62nd Meeting of the Chicago Linguistic Society<br>
+  62nd Annual Meeting of the Chicago Linguistic Society (CLS 62)<br>
 </h3>
 
-Coming soon!
-
-<!-- <h3>Meeting Description:</h3>
+<h3>Meeting Description:</h3>
   
-The Chicago Linguistic Society (CLS) is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 61st Annual Meeting, which will be held from Friday, May 9 to Sunday, May 11, 2025. All presentations will be conducted in-person at the University of Chicago.
+The Chicago Linguistic Society (CLS) is the oldest student-run linguistics organization in the United States. This academic year, CLS will host its 62nd Annual Meeting (CLS 62), to be held from April 17 through April 19, 2026 at the University of Chicago. Upholding a longstanding tradition, the conference serves as a forum for leading scholars and researchers from around the world to engage in the exchange of ideas across all areas of linguistics. CLS is particularly committed to fostering interdisciplinary engagement and promoting the value of diverse theoretical perspectives and methodological approaches within the field.
+
+<h3>Invited Speakers:</h3>
+    <ul>
+      <li><a href="https://home.uchicago.edu/~karlos/">Karlos Arregi</a> (The University of Chicago)</li>
+      <li><a href="https://mariabiezma.com">María Biezma</a> (University of Massachusetts Amherst)</li>
+      <li><a href="https://chatterlab.uchicago.edu/bios/marisa-aboutme/">Marisa Casillas</a> (The University of Chicago)</li>
+      <li><a href="https://www.mcgill.ca/linguistics/meghan-clayards-sheher">Meghan Clayards</a> (McGill University)</li>
+      <li><a href="https://ellenlau.net">Ellen Lau</a> (University of Maryland)</li>
+      <li><a href="https://www.laurelmackenzie.com">Laurel MacKenzie</a> (New York University)</li>
+    </ul>
 
 <h3>Call for Papers:</h3>
 
-The Chicago Linguistic Society invites abstracts from any area of linguistic research, including but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, and all relevant interfaces and related fields across the cognitive and social sciences. We particularly encourage submissions relevant to this year’s proposed special topics, detailed below.
-Presenters will be given 20 minutes for their presentation followed by a 10-minute question period. This year’s conference features a poster session, and those presenting a poster may be chosen as alternates for talks. All talks and poster presentations will be given the option of publication as full papers within CLS's annual proceedings.
+We invite submission of abstracts for 20-minute talks and poster presentations on any topic of linguistic inquiry pertaining to spoken or signed languages. Subfields may include but are not limited to syntax, morphology, semantics, pragmatics, language acquisition, phonetics, phonology, psycholinguistics, neurolinguistics, sociolinguistics, historical linguistics, and their various interfaces. We also welcome work situated in adjacent disciplines across the cognitive and social sciences.
 
+This year, we particularly encourage submissions that engage with the following broad themes:
 
-<h3>Special Topics:</h3>
-
-We particularly encourage submissions relevant to this year’s proposed special topics:
-
-<strong>Sound Change and Adaptation</strong>
-We welcome submissions exploring the underlying mechanisms, causes, and outcomes of phonological change and phonetic adaptation across languages. This topic seeks to address key questions surrounding the processes by which sound changes occur, focusing on the linguistic, cognitive, and social factors that drive these changes. We particularly encourage abstracts addressing, but not limited to, the following areas: phonetic drivers of sound change, lexical diffusion and gradual sound change, contact-induced sound change, cognitive and neurolinguistic perspectives on sound change.
-
-<strong>Interfacial Topics in Sociolinguistics</strong>
-We invite submissions exploring how insights and frameworks from semantics, pragmatics, psycholinguistics, and syntax are used to investigate the relationship between language, identities, and ideologies. We particularly invite abstracts addressing, but not limited to, situational variation and personae construction, the effects of language ideologies on language processing, variation at the syntactic, semantic, and pragmatic levels, and the application of variationist research to socio-political questions.
-
-<strong>Time, Space, and Deixis</strong>
-We welcome work examining questions of personal, spatial, and temporal reference as they relate to the verbal complex, to the demonstrative system, and to the grammar as a whole. This topic is dedicated to exploring the linguistic encoding of motion and spatial orientation in relation to deixis, and we invite diverse, interdisciplinary approaches and insights from any and all subfields within linguistics and from related fields. We particularly encourage submissions exploring deictic questions of time, motion, and reference from the position of syntax and its various interfaces, diachronic syntax and semantics, as well as corpus and computational methods.
-
-<strong>Manual Modality and Signed Languages</strong>
-We invite abstracts exploring foundational and emerging questions surrounding the structure, perception, and evolution of sign languages and other manual modality systems. This topic will examine critical areas of linguistic, cognitive, and social research into how manual languages are produced, perceived, and developed over time. By bringing together contemporary research in this area, the topic will highlight both theoretical and empirical perspectives, while addressing the unique attributes of sign languages as well as the processes through which manual modality languages emerge and adapt. We encourage submissions addressing, but not limited to, the following areas: production and perception in manual modality, phonology in sign and gesture, gesture in the context of sign language, sociolinguistics and language rights in manual modality, emergent languages and language change, and language development in manual modality.
-
-<strong>Black Languages</strong>
-We particularly welcome research examining the aforementioned topics as they relate to African and diasporic languages and language users. We seek to showcase the breadth of work investigating Black languages from all linguistic subfields and adjacent fields.
-
+  <ul><ul style="list-style:disc;">
+      <li>Formal approaches to conventional force and discourse effects</li>
+      <li>Acquisition of linguistic form and function</li>
+      <li>Dynamics in speech perception and production</li>
+      <li>Psychological and neural representations of language</li>
+      <li>Sociolinguistic variation in morphology and syntax</li>
+  </ul>
 
 <h3>Abstract Guidelines:</h3>
 
-Submissions that fail to comply with any of the following guidelines will be automatically rejected:
-<ol>
-  <li>Submit abstracts as a .PDF file named as *PaperTitle.pdf*.</li>
-  <li>Include the paper title and keywords (e.g. special topic name if applicable, linguistic subfield(s), language(s)/language family) within the abstract.</li>
-  <li>Limit abstracts to two US letter-sized pages in length, including data and references (select references acceptable), with one-inch margins and font size no smaller than 11 point.</li>
-  <li>Incorporate data into the main text of the abstract, not on a separate page.</li>
-  <li>**Anonymize submissions** by not including author or institution name(s) in the abstract or filename.</li>
-  <li>Submit abstracts via the Oxford Abstracts platform (<strong><a href="https://app.oxfordabstracts.com/stages/77083/submitter">click here for abstract submission</a></strong>) for the submission of abstracts.</li>
-  <li>Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author.</li>
-</ol>
-
-<h3>Invited Speakers:</h3>
-
-- <a href="https://liberalarts.utexas.edu/linguistics/faculty/asd853">Ashwini Deo</a> (The University of Texas at Austin)
-- <a href="https://slhs.sdsu.edu/people/faculty/emmorey-karen">Karen Emmorey</a> (San Diego State University)
-- <a href="https://ed.stanford.edu/faculty/acharity">Anne Harper Charity Hudley</a> (Stanford University)
-- <a href="https://linguistics.uchicago.edu/people/itamar-francez">Itamar Francez</a> (The University of Chicago)
-- <a href="https://linguistics.mit.edu/user/kenstow/">Michael Kenstowicz</a> (Massachusetts Institute of Technology)
-- <a href="https://linguistics.mit.edu/user/norvin/">Norvin Richards</a> (Massachusetts Institute of Technology)
+  <ul><ul style="list-style:disc;">
+    <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://tinyurl.com/cls62cfp">Oxford Abstracts platform</a></strong> by January 4, 2026 at 11:59 PM Central Time.</li>
+    <li>All submissions must be anonymized by not including author name(s) nor affiliations in the abstract or filename.</li>
+    <li>The paper title and keywords should be included within the abstract.</li>
+    <li>Abstracts should not exceed two US letter-sized or A4 pages in length, including data and references (just select references are acceptable). Abstracts must have one-inch margins on all sides and use a font no smaller than 11-point.</li>
+    <li>Data, tables, figures and graphs should be incorporated into the main text of the abstract.</li>
+    <li>Submissions are limited to one individual abstract and one joint abstract per author, or two joint abstracts per author.</li>
+  </ul>
 
 <h3>Important Dates:</h3>
 
-<strong>Extended Submission deadline:</strong> January 26, 2025 at 23:59 US Central Standard Time (GMT-6)<br>
-<strong>Notification:</strong> March 10, 2025<br>
-<strong>Conference dates:</strong> May 9 - May 11, 2025<br>
+<strong>Submission deadline:</strong> January 04, 2026 at 23:59 US Central Standard Time (GMT-6)<br>
+<strong>Notification of acceptance:</strong> Mid to late February<br>
+<strong>Conference dates:</strong> April 17 - April 19, 2026<br>
 
-
-
-<h3>Organizers:</h3>
-
-- Jeffery Davis (*jgdavis[at]uchicago[dot]edu*)
-- Taela Dudley (*dudleytd[at]uchicago[dot]edu*)
-- Peter Gado (*pgado[at]uchicago[dot]edu*)
-- Gabriel H. Gilbert (*ghgilbert[at]uchicago[dot]edu*)
-- Chunan Li (*chunanli[at]uchicago[dot]edu*)
-- Yiin Wang (*yiin[at]uchicago[dot]edu*)
+<h3>Organizers</h3>
+  <ul>
+    <li>Marcia Gonzales (<a href="mailto:marciag@uchicago.edu">marciag@uchicago.edu</a>)</li>
+    <li>Joohee Ko (<a href="mailto:jooheeko@uchicago.edu">jooheeko@uchicago.edu</a>)</li>
+    <li>Jordyn Martin (<a href="mailto:jordynmartin@uchicago.edu">jordynmartin@uchicago.edu</a>)</li>
+    <li>Summer Xia (<a href="mailto:summerxia@uchicago.edu">summerxia@uchicago.edu</a>)</li>
+    <li>Gabriel H. Gilbert (<a href="mailto:ghgilbert@uchicago.edu">ghgilbert@uchicago.edu</a>)</li>
+  </ul>
 
 <h3>Land Acknowledgement:</h3>
-
+  
 The Chicago Linguistic Society is headquartered at the University of Chicago, which was built on the occupied and unceded lands ancestrally stewarded by many Native peoples. These include the people of the Council of Three Fires (the Ojibwe, Potawatomi, and Odawa nations) as well as the Menominee, Kickapoo, Miami, Sac and Fox, and Ho-Chunk nations. Today, Cook County is home to more than 39,000 Native people representing over 100 tribal nations and Indigenous communities.
 
 <h3>Questions?</h3>
-
-Please email us at _2025cls61@gmail.com_ for any questions or issues that may arise.
-
-__________________________________________________________________________
-
-<div class="organizers">
-<h3>CLS 61 Organizers</h3>
-<ul style="list-style:none;">
-    <li>Jeffery Davis</li>
-    <li>Taela Dudley</li>
-    <li>Peter Gado</li>
-    <li>Gabriel H. Gilbert</li>
-    <li>Chunan Li</li>
-    <li>Yiin Wang</li>
-    
-</ul>
-</div> -->
+  
+<p>Please email us at <a href="mailto:chicagolinguisticsociety62@gmail.com">chicagolinguisticsociety62@gmail.com</a> for any questions or issues that may arise.</p>
