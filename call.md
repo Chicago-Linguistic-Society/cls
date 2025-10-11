@@ -31,7 +31,7 @@ We invite submission of abstracts for 20-minute talks and poster presentations o
 
 This year, we particularly encourage submissions that engage with the following broad themes:
 
-<ul><ul style="list-style:disc;">
+<ul>
   <li>Formal approaches to conventional force and discourse effects</li>
   <li>Acquisition of linguistic form and function</li>
   <li>Dynamics in speech perception and production</li>
@@ -41,7 +41,7 @@ This year, we particularly encourage submissions that engage with the following 
 
 <h3>Abstract Guidelines:</h3>
 
-<ul><ul style="list-style:disc;">
+<ul>
   <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://tinyurl.com/cls62cfp">Oxford Abstracts platform</a></strong> by January 4, 2026 at 11:59 PM Central Time.</li>
   <li>All submissions must be anonymized by not including author name(s) nor affiliations in the abstract or filename.</li>
   <li>The paper title and keywords should be included within the abstract.</li>
@@ -52,9 +52,11 @@ This year, we particularly encourage submissions that engage with the following 
 
 <h3>Important Dates:</h3>
 
-<strong>Submission deadline:</strong> January 04, 2026 at 23:59 US Central Standard Time (GMT-6)<br>
-<strong>Notification of acceptance:</strong> Mid to late February<br>
-<strong>Conference dates:</strong> April 17 - April 19, 2026<br>
+<ul>
+  <li>Submission deadline: January 04, 2026 at 23:59 US Central Standard Time (GMT-6)</li>
+  <li>Notification of acceptance: Mid to late February</li>
+  <li>Conference dates: April 17 - April 19, 2026</li>
+</ul>
 
 <h3>Organizers</h3>
 
