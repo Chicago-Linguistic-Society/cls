@@ -27,7 +27,7 @@ The Chicago Linguistic Society (CLS) is the oldest student-run linguistics organ
 
 <h3>Call for Papers:</h3>
 
-We invite submission of abstracts for 20-minute talks and poster presentations on any topic of linguistic inquiry pertaining to spoken or signed languages. Subfields may include but are not limited to syntax, morphology, semantics, pragmatics, language acquisition, phonetics, phonology, psycholinguistics, neurolinguistics, sociolinguistics, historical linguistics, and their various interfaces. We also welcome work situated in adjacent disciplines across the cognitive and social sciences.
+We invite submission of abstracts for 20-minute in-person talks and poster presentations on any topic of linguistic inquiry pertaining to spoken or signed languages. Subfields may include but are not limited to syntax, morphology, semantics, pragmatics, language acquisition, phonetics, phonology, psycholinguistics, neurolinguistics, sociolinguistics, historical linguistics, and their various interfaces. We also welcome work situated in adjacent disciplines across the cognitive and social sciences.
 
 This year, we particularly encourage submissions that engage with the following broad themes:
 
@@ -42,7 +42,7 @@ This year, we particularly encourage submissions that engage with the following 
 <h3>Abstract Guidelines:</h3>
 
 <ul>
-  <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://tinyurl.com/cls62cfp">Oxford Abstracts platform</a></strong> by January 4, 2026 at 11:59 PM Central Time.</li>
+  <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://tinyurl.com/cls62cfp">Oxford Abstracts platform</a></strong> (<a href="https://tinyurl.com/cls62cfp">https://tinyurl.com/cls62cfp</a>) by January 11, 2026 at 11:59 PM Central Time.</li>
   <li>All submissions must be anonymized by not including author name(s) nor affiliations in the abstract or filename.</li>
   <li>The paper title and keywords should be included within the abstract.</li>
   <li>Abstracts should not exceed two US letter-sized or A4 pages in length, including data and references (just select references are acceptable). Abstracts must have one-inch margins on all sides and use a font no smaller than 11-point.</li>
@@ -53,8 +53,9 @@ This year, we particularly encourage submissions that engage with the following 
 <h3>Important Dates:</h3>
 
 <ul>
-  <li>Submission deadline: January 04, 2026 at 23:59 US Central Standard Time (GMT-6)</li>
-  <li>Notification of acceptance: Mid to late February</li>
+  <li><s>Submission deadline: January 04, 2026 at 23:59 US Central Standard Time (GMT-6)</s></li>
+  <li><b>Extended deadline: January 11, 2026 at 23:59 US Central Standard Time (GMT-6)</b></li>
+  <li>Notification of acceptance: Late February</li>
   <li>Conference dates: April 17 - April 19, 2026</li>
 </ul>
 
