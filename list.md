@@ -492,7 +492,7 @@ title="cls58">58</a></td>
     <td align="left">Barbara Need, Eric Schiller, Anna Bosch</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://chicagolinguisticsociety.com/public/cls23-2-toc.pdf" title="cls23-2">23-2</a></td>
+    <td align="center"><a href="https://chicagolinguisticsociety.com/public/cls-23-2-toc.pdf" title="cls23-2">23-2</a></td>
 	  <td align="center">1987</td>
     <td align="left">Papers from the 23rd Annual Regional Meeting of the Chicago Linguistic Society: Part Two: Parasession on Autosegmental and Metrical Phonology</td>
     <td align="center">N/A</td>
