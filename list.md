@@ -34,6 +34,14 @@ Note: We now have PDFs of all published issues available via Google Drive [here]
     <th align="center">Price</th>
     <th align="center">Editors</th>
   </tr>
+	<tr>
+    <td align="center"><a href="https://drive.google.com/file/d/1qIE8-5jvq3kzoNRR76Aiz1i0j5TytfK_/view?usp=drive_link"
+title="cls60">60</a></td>
+    <td align="center">2026</td>
+    <td align="left">Proceedings of the Sixtieth Annual Meeting of the Chicago Linguistic Society</td>
+    <td align="center"></td>
+    <td align="left">Xiaobei Chen, Sercan Karakaş, Jaehong Shim</td>
+  </tr>
   <tr>
     <td align="center"><a href="https://drive.google.com/file/d/1t22Gqpjgj5unIwE0Q-_Up5K4-x03PwyA/view?usp=drive_link"
 title="cls59">59</a></td>
