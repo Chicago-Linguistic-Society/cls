@@ -55,7 +55,7 @@ This year, we particularly encourage submissions that engage with the following 
 <ul>
   <li><s>Submission deadline: January 04, 2026 at 23:59 US Central Standard Time (GMT-6)</s></li>
   <li><b>Extended deadline: January 11, 2026 at 23:59 US Central Standard Time (GMT-6)</b></li>
-  <li>Notification of acceptance: Late February</li>
+  <li>Notification of acceptance: Mid-March</li>
   <li>Conference dates: April 17 - April 19, 2026</li>
 </ul>
 
