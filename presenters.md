@@ -20,7 +20,7 @@ You can download here the toolkit for writing the proceedings:
 
 # Main Session Presenters
 
-Please plan to speak for 20 minutes, with 10 minutes for questions. Plan to bring your own laptop for connection to the projector system; if this is not possible or in case of technical difficulties, we can provide a laptop during your session for this purpose, but please email all presentation materials in advance if this is the case.
+Please plan to speak for 20 minutes, with 10 minutes for questions. Plan to bring your own laptop for connection to the projector system. If this is not possible (or in case of technical difficulties), we can provide a laptop during your session for this purpose, but please email all presentation materials in advance.
 
 # Poster Presenters
 
