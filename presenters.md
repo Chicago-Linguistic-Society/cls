@@ -22,6 +22,8 @@ You can download here the toolkit for writing the proceedings:
 
 Please plan to speak for 20 minutes, with 10 minutes for questions. Plan to bring your own laptop for connection to the projector system. If this is not possible (or in case of technical difficulties), we can provide a laptop during your session for this purpose, but please email all presentation materials in advance.
 
+If you plan to use handouts for your talk and want us to make copies for you, please be sure to email your materials to us by April 16.
+
 # Poster Presenters
 
 Each poster session will be one hour.
