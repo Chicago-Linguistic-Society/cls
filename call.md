@@ -44,7 +44,7 @@ This year, we particularly encourage submissions that engage with the following 
 <h3>Abstract Guidelines:</h3>
 
 <ul>
-  <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://app.oxfordabstracts.com/stages/83832/submitter">Oxford Abstracts platform</a></strong> (<a href="https://app.oxfordabstracts.com/stages/83832/submitter">https://app.oxfordabstracts.com/stages/83832/submitter</a>) by November 20, 2026 at 11:59 PM Central Time.</li>
+  <li>Abstracts must be submitted in PDF format with the filename PaperTitle.pdf through the <strong><a href="https://app.oxfordabstracts.com/stages/83832/submitter">Oxford Abstracts platform</a></strong> (<a href="https://app.oxfordabstracts.com/stages/83832/submitter">https://app.oxfordabstracts.com/stages/83832/submitter</a>) by November 27, 2026 at 11:59 PM Central Time.</li>
   <li>All submissions must be anonymized by not including author name(s) nor affiliations in the abstract or filename.</li>
   <li>The paper title and keywords should be included within the abstract.</li>
   <li>Abstracts should not exceed two US letter-sized or A4 pages in length, including data and references (just select references are acceptable). Abstracts must have one-inch margins on all sides and use a font no smaller than 11-point.</li>
